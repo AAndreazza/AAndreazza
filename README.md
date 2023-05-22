@@ -1,4 +1,4 @@
-### Olá! Sou a Alana ✨
+### Olá! Eu sou a Alana Andreazza ✨
 
 - 💡 Estudante de Ciência da Computação e demais cursos de desenvolvimento Front-end;
 - 👩‍💻 Buscando uma oportunidade para atuar na área de Front-end;
