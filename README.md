@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Alana ✨
 
-- 💡 Estudante de Ciência da Computação e demais cursos de desenvolvimento Front-end;
-- 👩‍💻 Buscando uma oportunidade para atuar na área de Front-end;
+- 💡 Estudante de Ciência da Computação e do programa Entra21;
+- 👩‍💻 Buscando uma oportunidade para atuar na área de programação;
 - 📫 alanaandreazza26@gmail.com;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanaandreazza/)
