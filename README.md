@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Alana ✨
 
 - 💡 Estudante de Ciência da Computação na FURB;
-- 💡 Recém formada do curso Entra 21 - Java;
+- 💡 Formada em Técnico em Informática e no curso Entra 21 - Java;
 - 👩‍💻 Buscando uma oportunidade para atuar na área de programação;
 - 📫 alanaandreazza26@gmail.com;
 
